@@ -14,6 +14,10 @@ def product(arr):
 
     return(product)
 
+def reverse_array(arr):
+    return arr[::-1]
+
+
 def main():
     # Initialize an empty list to store the integers
     integer_list = []
